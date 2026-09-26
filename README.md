@@ -24,7 +24,7 @@ Projet personnel d'automatisation de tâches d'administration Windows avec Power
 Lancer PowerShell puis exécuter :
 
 ```powershell
-.\scripts\Get-SystemInfo.ps1
-.\scripts\Get-LocalUsers.ps1
-.\scripts\Check-SystemConfig.ps1
-.\scripts\Generate-AdminReport.ps1
+.\scripts\SystemInfo.ps1
+.\scripts\LocalUsers.ps1
+.\scripts\SystemConfig.ps1
+.\scripts\AdminRapport.ps1
