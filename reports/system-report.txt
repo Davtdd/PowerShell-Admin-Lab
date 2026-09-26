@@ -1,0 +1,44 @@
+﻿
+========================================
+        RAPPORT ADMINISTRATION
+========================================
+
+Date :
+09/26/2026 15:10:43
+
+POSTE
+----------------------------------------
+Nom             : Test
+Utilisateur     : Test\Test
+SystÃ¨me         : Microsoft Windows 11 Famille
+Version         : 10.0.26200
+Architecture    : 64 bits
+RAM             : 15.81 Go
+Dernier dÃ©marrage : 09/17/2026 06:00:23
+
+DISQUE C:
+----------------------------------------
+Taille totale   : 238.37 Go
+Espace libre    : 86.01 Go
+
+UTILISATEURS LOCAUX
+----------------------------------------
+
+Name               Enabled
+----               -------
+Administrateur       False
+DefaultAccount       False
+Invité               False
+Test               True
+WDAGUtilityAccount   False
+
+
+
+
+SERVICES
+----------------------------------------
+Windows Update : Stopped
+
+========================================
+Fin du rapport
+========================================
